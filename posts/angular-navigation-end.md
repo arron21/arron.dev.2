@@ -1,4 +1,5 @@
 ---
+draft: false
 date: "2024-5-31"
 title: Angular event instanceof NavigationEnd
 ---
