@@ -1,5 +1,5 @@
 ---
-date: "2025-4-1"
+date: "2025-04-01"
 title: Useful git Commands
 ---
 **git config credential.helper store**
