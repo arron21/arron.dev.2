@@ -1,5 +1,5 @@
 ---
-date: "2020-11-13"
+date: "2025-4-1"
 title: Useful git Commands
 ---
 **git config credential.helper store**
@@ -33,3 +33,7 @@ shows the URL of the git origin where you pull/push files to
 **git remote rm testing**
 
 removes the remote branch "testing"
+
+**git revert 989189be8662ef4ba2bce3f6178f1a9c644fe0e7**
+
+This will create a new commit that undoes the changes introduced by the specified commit.
